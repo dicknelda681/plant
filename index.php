@@ -47,7 +47,7 @@
                 </div>
                 <div class="h-100 d-inline-flex align-items-center">
                     <span class="far fa-envelope me-2"></span>
-                    <span><a href="mailto:info@greenora.com" class="__cf_email__" >info@greenora.com</a></span>
+                    <span><a href="mailto:info@greenora.com" class="text-white __cf_email__" >info@greenora.com</a></span>
                 </div>
             </div>
             <div class="col-lg-5 px-5 text-end">
