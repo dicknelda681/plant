@@ -693,36 +693,63 @@
     <!-- Team End -->
 
 
-    <!-- Testimonial Start -->
-    <div class="container-xxl py-5">
-        <div class="container">
-            <div class="row g-5">
-                <div class="col-lg-5 wow fadeInUp" data-wow-delay="0.1s">
-                    <p class="fs-5 fw-bold text-primary">Testimonial</p>
-                    <h1 class="display-5 mb-5">What Our Clients Say About Us!</h1>
-                    <p class="mb-4">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu diam amet diam et eos. Clita erat ipsum et lorem et sit sed stet lorem sit clita duo justo.</p>
-                    <a class="btn btn-primary py-3 px-4" href="">See More</a>
-                </div>
-                <div class="col-lg-7 wow fadeInUp" data-wow-delay="0.5s">
-                    <div class="owl-carousel testimonial-carousel">
-                        <div class="testimonial-item">
-                            <img class="img-fluid rounded mb-3" src="images/testimonial-1.jpg" alt="">
-                            <p class="fs-5">Dolores sed duo clita tempor justo dolor et stet lorem kasd labore dolore lorem ipsum. At lorem lorem magna ut et, nonumy et labore et tempor diam tempor erat.</p>
-                            <h4>Client Name</h4>
-                            <span>Profession</span>
-                        </div>
-                        <div class="testimonial-item">
-                            <img class="img-fluid rounded mb-3" src="images/testimonial-2.jpg" alt="">
-                            <p class="fs-5">Dolores sed duo clita tempor justo dolor et stet lorem kasd labore dolore lorem ipsum. At lorem lorem magna ut et, nonumy et labore et tempor diam tempor erat.</p>
-                            <h4>Client Name</h4>
-                            <span>Profession</span>
-                        </div>
+   <!-- Testimonial Start -->
+<div class="container-xxl py-5">
+    <div class="container">
+        <div class="row g-5">
+            
+            <div class="col-lg-5 wow fadeInUp" data-wow-delay="0.1s">
+                <p class="fs-5 fw-bold text-primary">Testimonials</p>
+                <h1 class="display-5 mb-5">What People Say About Greenora</h1>
+                <p class="mb-4">
+                    Many plant lovers trust Greenora for bringing greenery into 
+                    their homes and workspaces. Here’s what they say about their 
+                    experience with our plants and gardening solutions.
+                </p>
+                <a class="btn btn-primary py-3 px-4" href="">See More</a>
+            </div>
+            
+            <div class="col-lg-7 wow fadeInUp" data-wow-delay="0.5s">
+                <div class="owl-carousel testimonial-carousel">
+                    
+                    <div class="testimonial-item">
+                        <img class="img-fluid rounded mb-3" src="images/testimonial-1.jpg" alt="">
+                        <p class="fs-5">
+                            Greenora helped me transform my small balcony into a 
+                            peaceful green space. The plants were fresh and easy 
+                            to maintain.
+                        </p>
+                        <h4>Rahul Sharma</h4>
+                        <span>Home Gardener</span>
                     </div>
+                    
+                    <div class="testimonial-item">
+                        <img class="img-fluid rounded mb-3" src="images/testimonial-2.jpg" alt="">
+                        <p class="fs-5">
+                            I added indoor plants from Greenora to my office and 
+                            the environment feels much more fresh and relaxing now.
+                        </p>
+                        <h4>Neha Verma</h4>
+                        <span>Office Owner</span>
+                    </div>
+
+                    <div class="testimonial-item">
+                        <img class="img-fluid rounded mb-3" src="images/testimonial-3.jpg" alt="">
+                        <p class="fs-5">
+                            The plant care guidance was very helpful. Even as a 
+                            beginner, I was able to keep my plants healthy.
+                        </p>
+                        <h4>Amit Singh</h4>
+                        <span>Plant Lover</span>
+                    </div>
+
                 </div>
             </div>
+            
         </div>
     </div>
-    <!-- Testimonial End -->
+</div>
+<!-- Testimonial End -->
 
 
     <!-- Footer Start -->
