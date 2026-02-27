@@ -153,92 +153,112 @@
 </div>
     <!-- Carousel End -->
 
-
-    <!-- Top Feature Start -->
-    <div class="container-fluid top-feature py-5 pt-lg-0">
-        <div class="container py-5 pt-lg-0">
-            <div class="row gx-0">
-                <div class="col-lg-4 wow fadeIn" data-wow-delay="0.1s">
-                    <div class="bg-white shadow d-flex align-items-center h-100 px-5" style="min-height: 160px;">
-                        <div class="d-flex">
-                            <div class="flex-shrink-0 btn-lg-square rounded-circle bg-light">
-                                <i class="fa fa-times text-primary"></i>
-                            </div>
-                            <div class="ps-3">
-                                <h4>No Hidden Cost</h4>
-                                <span>Clita erat ipsum lorem sit sed stet duo justo</span>
-                            </div>
+<!-- Top Feature Start -->
+<div class="container-fluid top-feature py-5 pt-lg-0">
+    <div class="container py-5 pt-lg-0">
+        <div class="row gx-0">
+            
+            <div class="col-lg-4 wow fadeIn" data-wow-delay="0.1s">
+                <div class="bg-white shadow d-flex align-items-center h-100 px-5" style="min-height: 160px;">
+                    <div class="d-flex">
+                        <div class="flex-shrink-0 btn-lg-square rounded-circle bg-light">
+                            <i class="fa fa-leaf text-primary"></i>
                         </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 wow fadeIn" data-wow-delay="0.3s">
-                    <div class="bg-white shadow d-flex align-items-center h-100 px-5" style="min-height: 160px;">
-                        <div class="d-flex">
-                            <div class="flex-shrink-0 btn-lg-square rounded-circle bg-light">
-                                <i class="fa fa-users text-primary"></i>
-                            </div>
-                            <div class="ps-3">
-                                <h4>Dedicated Team</h4>
-                                <span>Clita erat ipsum lorem sit sed stet duo justo</span>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 wow fadeIn" data-wow-delay="0.5s">
-                    <div class="bg-white shadow d-flex align-items-center h-100 px-5" style="min-height: 160px;">
-                        <div class="d-flex">
-                            <div class="flex-shrink-0 btn-lg-square rounded-circle bg-light">
-                                <i class="fa fa-phone text-primary"></i>
-                            </div>
-                            <div class="ps-3">
-                                <h4>24/7 Available</h4>
-                                <span>Clita erat ipsum lorem sit sed stet duo justo</span>
-                            </div>
+                        <div class="ps-3">
+                            <h4>Eco-Friendly Plants</h4>
+                            <span>Healthy and sustainable plants grown with natural care.</span>
                         </div>
                     </div>
                 </div>
             </div>
-        </div>
-    </div>
-    <!-- Top Feature End -->
 
-
-    <!-- About Start -->
-    <div class="container-xxl py-5">
-        <div class="container">
-            <div class="row g-5 align-items-end">
-                <div class="col-lg-3 col-md-5 wow fadeInUp" data-wow-delay="0.1s">
-                    <img class="img-fluid rounded" data-wow-delay="0.1s" src="images/about.jpg">
-                </div>
-                <div class="col-lg-6 col-md-7 wow fadeInUp" data-wow-delay="0.3s">
-                    <h1 class="display-1 text-primary mb-0">25</h1>
-                    <p class="text-primary mb-4">Year of Experience</p>
-                    <h1 class="display-5 mb-4">We Make Your Home Like A Garden</h1>
-                    <p class="mb-4">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu diam amet diam et eos. Clita erat ipsum et lorem et sit, sed stet lorem sit clita duo justo magna dolore erat amet</p>
-                    <a class="btn btn-primary py-3 px-4" href="">Explore More</a>
-                </div>
-                <div class="col-lg-3 col-md-12 wow fadeInUp" data-wow-delay="0.5s">
-                    <div class="row g-5">
-                        <div class="col-12 col-sm-6 col-lg-12">
-                            <div class="border-start ps-4">
-                                <i class="fa fa-award fa-3x text-primary mb-3"></i>
-                                <h4 class="mb-3">Award Winning</h4>
-                                <span>Clita erat ipsum et lorem et sit, sed stet lorem sit clita duo justo magna</span>
-                            </div>
+            <div class="col-lg-4 wow fadeIn" data-wow-delay="0.3s">
+                <div class="bg-white shadow d-flex align-items-center h-100 px-5" style="min-height: 160px;">
+                    <div class="d-flex">
+                        <div class="flex-shrink-0 btn-lg-square rounded-circle bg-light">
+                            <i class="fa fa-seedling text-primary"></i>
                         </div>
-                        <div class="col-12 col-sm-6 col-lg-12">
-                            <div class="border-start ps-4">
-                                <i class="fa fa-users fa-3x text-primary mb-3"></i>
-                                <h4 class="mb-3">Dedicated Team</h4>
-                                <span>Clita erat ipsum et lorem et sit, sed stet lorem sit clita duo justo magna</span>
-                            </div>
+                        <div class="ps-3">
+                            <h4>Expert Gardening</h4>
+                            <span>Professional guidance to help your garden grow greener.</span>
                         </div>
                     </div>
                 </div>
             </div>
+
+            <div class="col-lg-4 wow fadeIn" data-wow-delay="0.5s">
+                <div class="bg-white shadow d-flex align-items-center h-100 px-5" style="min-height: 160px;">
+                    <div class="d-flex">
+                        <div class="flex-shrink-0 btn-lg-square rounded-circle bg-light">
+                            <i class="fa fa-truck text-primary"></i>
+                        </div>
+                        <div class="ps-3">
+                            <h4>Fast Delivery</h4>
+                            <span>Quick and safe delivery of fresh plants to your doorstep.</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
         </div>
     </div>
-    <!-- About End -->
+</div>
+<!-- Top Feature End -->
+
+
+<!-- About Start -->
+<div class="container-xxl py-5">
+    <div class="container">
+        <div class="row g-5 align-items-end">
+            
+            <div class="col-lg-3 col-md-5 wow fadeInUp" data-wow-delay="0.1s">
+                <img class="img-fluid rounded" data-wow-delay="0.1s" src="images/about.jpg">
+            </div>
+            
+            <div class="col-lg-6 col-md-7 wow fadeInUp" data-wow-delay="0.3s">
+                <h1 class="display-1 text-primary mb-0">10</h1>
+                <p class="text-primary mb-4">Years of Green Experience</p>
+                <h1 class="display-5 mb-4">Bringing Nature Closer to Your Home</h1>
+                <p class="mb-4">
+                    Greenora is dedicated to creating greener and healthier spaces through plants and natural gardening solutions. 
+                    We believe that every home deserves a touch of nature, and our goal is to make gardening simple and enjoyable 
+                    for everyone. From indoor plants to outdoor greenery, we help you grow a refreshing environment around you.
+                </p>
+                <a class="btn btn-primary py-3 px-4" href="">Explore More</a>
+            </div>
+            
+            <div class="col-lg-3 col-md-12 wow fadeInUp" data-wow-delay="0.5s">
+                <div class="row g-5">
+                    
+                    <div class="col-12 col-sm-6 col-lg-12">
+                        <div class="border-start ps-4">
+                            <i class="fa fa-leaf fa-3x text-primary mb-3"></i>
+                            <h4 class="mb-3">Natural Plants</h4>
+                            <span>
+                                We provide healthy and eco-friendly plants that bring freshness 
+                                and natural beauty into your space.
+                            </span>
+                        </div>
+                    </div>
+                    
+                    <div class="col-12 col-sm-6 col-lg-12">
+                        <div class="border-start ps-4">
+                            <i class="fa fa-seedling fa-3x text-primary mb-3"></i>
+                            <h4 class="mb-3">Expert Care</h4>
+                            <span>
+                                Our team shares simple and practical gardening tips to help 
+                                your plants grow strong and healthy.
+                            </span>
+                        </div>
+                    </div>
+                    
+                </div>
+            </div>
+            
+        </div>
+    </div>
+</div>
+<!-- About End -->
 
 
     <!-- Facts Start -->
@@ -267,52 +287,66 @@
     <!-- Facts End -->
 
 
-    <!-- Features Start -->
-    <div class="container-xxl py-5">
-        <div class="container">
-            <div class="row g-5 align-items-center">
-                <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s">
-                    <p class="fs-5 fw-bold text-primary">Why Choosing Us!</p>
-                    <h1 class="display-5 mb-4">Few Reasons Why People Choosing Us!</h1>
-                    <p class="mb-4">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu diam amet diam et eos. Clita erat ipsum et lorem et sit, sed stet lorem sit clita duo justo magna dolore erat amet</p>
-                    <a class="btn btn-primary py-3 px-4" href="">Explore More</a>
-                </div>
-                <div class="col-lg-6">
-                    <div class="row g-4 align-items-center">
-                        <div class="col-md-6">
-                            <div class="row g-4">
-                                <div class="col-12 wow fadeIn" data-wow-delay="0.3s">
-                                    <div class="text-center rounded py-5 px-4" style="box-shadow: 0 0 45px rgba(0,0,0,.08);">
-                                        <div class="btn-square bg-light rounded-circle mx-auto mb-4" style="width: 90px; height: 90px;">
-                                            <i class="fa fa-check fa-3x text-primary"></i>
-                                        </div>
-                                        <h4 class="mb-0">100% Satisfaction</h4>
+ <!-- Features Start -->
+<div class="container-xxl py-5">
+    <div class="container">
+        <div class="row g-5 align-items-center">
+            
+            <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s">
+                <p class="fs-5 fw-bold text-primary">Why Choose Greenora!</p>
+                <h1 class="display-5 mb-4">Why People Trust Greenora for Their Green Spaces</h1>
+                <p class="mb-4">
+                    At Greenora, we focus on bringing nature closer to your everyday life. 
+                    Our goal is to help you create a peaceful and refreshing environment 
+                    with healthy plants and simple gardening solutions. We make it easy 
+                    for anyone to enjoy greenery at home or in the workplace.
+                </p>
+                <a class="btn btn-primary py-3 px-4" href="">Explore More</a>
+            </div>
+            
+            <div class="col-lg-6">
+                <div class="row g-4 align-items-center">
+                    
+                    <div class="col-md-6">
+                        <div class="row g-4">
+                            
+                            <div class="col-12 wow fadeIn" data-wow-delay="0.3s">
+                                <div class="text-center rounded py-5 px-4" style="box-shadow: 0 0 45px rgba(0,0,0,.08);">
+                                    <div class="btn-square bg-light rounded-circle mx-auto mb-4" style="width: 90px; height: 90px;">
+                                        <i class="fa fa-leaf fa-3x text-primary"></i>
                                     </div>
-                                </div>
-                                <div class="col-12 wow fadeIn" data-wow-delay="0.5s">
-                                    <div class="text-center rounded py-5 px-4" style="box-shadow: 0 0 45px rgba(0,0,0,.08);">
-                                        <div class="btn-square bg-light rounded-circle mx-auto mb-4" style="width: 90px; height: 90px;">
-                                            <i class="fa fa-users fa-3x text-primary"></i>
-                                        </div>
-                                        <h4 class="mb-0">Dedicated Team</h4>
-                                    </div>
+                                    <h4 class="mb-0">Healthy Plants</h4>
                                 </div>
                             </div>
-                        </div>
-                        <div class="col-md-6 wow fadeIn" data-wow-delay="0.7s">
-                            <div class="text-center rounded py-5 px-4" style="box-shadow: 0 0 45px rgba(0,0,0,.08);">
-                                <div class="btn-square bg-light rounded-circle mx-auto mb-4" style="width: 90px; height: 90px;">
-                                    <i class="fa fa-tools fa-3x text-primary"></i>
+                            
+                            <div class="col-12 wow fadeIn" data-wow-delay="0.5s">
+                                <div class="text-center rounded py-5 px-4" style="box-shadow: 0 0 45px rgba(0,0,0,.08);">
+                                    <div class="btn-square bg-light rounded-circle mx-auto mb-4" style="width: 90px; height: 90px;">
+                                        <i class="fa fa-seedling fa-3x text-primary"></i>
+                                    </div>
+                                    <h4 class="mb-0">Expert Guidance</h4>
                                 </div>
-                                <h4 class="mb-0">Modern Equipment</h4>
                             </div>
+                            
                         </div>
                     </div>
+                    
+                    <div class="col-md-6 wow fadeIn" data-wow-delay="0.7s">
+                        <div class="text-center rounded py-5 px-4" style="box-shadow: 0 0 45px rgba(0,0,0,.08);">
+                            <div class="btn-square bg-light rounded-circle mx-auto mb-4" style="width: 90px; height: 90px;">
+                                <i class="fa fa-spa fa-3x text-primary"></i>
+                            </div>
+                            <h4 class="mb-0">Eco Friendly</h4>
+                        </div>
+                    </div>
+                    
                 </div>
             </div>
+            
         </div>
     </div>
-    <!-- Features End -->
+</div>
+<!-- Features End -->
 
 
     <!-- Service Start -->
