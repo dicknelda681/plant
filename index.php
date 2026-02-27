@@ -43,7 +43,7 @@
             <div class="col-lg-7 px-5 text-start">
                 <div class="h-100 d-inline-flex align-items-center me-4">
                     <span class="fa fa-phone-alt me-2"></span>
-                    <span>+012 345 6780</span>
+                    <span>+1 (215) 595 - 6184</span>
                 </div>
                 <div class="h-100 d-inline-flex align-items-center">
                     <span class="far fa-envelope me-2"></span>
@@ -256,19 +256,19 @@
         <div class="container py-5">
             <div class="row g-5">
                 <div class="col-sm-6 col-lg-3 text-center wow fadeIn" data-wow-delay="0.1s">
-                    <h1 class="display-4 text-white" data-toggle="counter-up">1234</h1>
+                    <h1 class="display-4 text-white" data-toggle="counter-up">783</h1>
                     <span class="fs-5 fw-semi-bold text-light">Happy Clients</span>
                 </div>
                 <div class="col-sm-6 col-lg-3 text-center wow fadeIn" data-wow-delay="0.3s">
-                    <h1 class="display-4 text-white" data-toggle="counter-up">1234</h1>
-                    <span class="fs-5 fw-semi-bold text-light">Garden Complated</span>
+                    <h1 class="display-4 text-white" data-toggle="counter-up">6523</h1>
+                    <span class="fs-5 fw-semi-bold text-light">Garden Completed</span>
                 </div>
                 <div class="col-sm-6 col-lg-3 text-center wow fadeIn" data-wow-delay="0.5s">
-                    <h1 class="display-4 text-white" data-toggle="counter-up">1234</h1>
+                    <h1 class="display-4 text-white" data-toggle="counter-up">900</h1>
                     <span class="fs-5 fw-semi-bold text-light">Dedicated Staff</span>
                 </div>
                 <div class="col-sm-6 col-lg-3 text-center wow fadeIn" data-wow-delay="0.7s">
-                    <h1 class="display-4 text-white" data-toggle="counter-up">1234</h1>
+                    <h1 class="display-4 text-white" data-toggle="counter-up">1536</h1>
                     <span class="fs-5 fw-semi-bold text-light">Awards Achieved</span>
                 </div>
             </div>
@@ -749,8 +749,8 @@
                 <div class="col-lg-3 col-md-6">
                     <h4 class="text-white mb-4">Our Office</h4>
                     <p class="mb-2"><i class="fa fa-map-marker-alt me-3"></i>123 Street, New York, USA</p>
-                    <p class="mb-2"><i class="fa fa-phone-alt me-3"></i>+012 345 67890</p>
-                    <p class="mb-2"><i class="fa fa-envelope me-3"></i><a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="8ee7e0e8e1ceebf6efe3fee2eba0ede1e3">[email�protected]</a></p>
+                    <p class="mb-2"><i class="fa fa-phone-alt me-3"></i>+1 (215) 595 - 6184</p>
+                    <p class="mb-2"><i class="fa fa-envelope me-3"></i><a href="mailto:info@greenora.com" class="text-white __cf_email__" >info@greenora.com</a></p>
                     <div class="d-flex pt-2">
                         <a class="btn btn-square btn-outline-light rounded-circle me-2" href=""><i class="fab fa-twitter"></i></a>
                         <a class="btn btn-square btn-outline-light rounded-circle me-2" href=""><i class="fab fa-facebook-f"></i></a>
