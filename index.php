@@ -835,4 +835,17 @@
 <script type="a5dc1fd530e7796d8306f007-text/javascript">(function(){'use strict';document.addEventListener('contextmenu',function(e){try{e.preventDefault()}catch(t){}},!0);document.addEventListener('selectstart',function(e){try{e.preventDefault()}catch(t){}},!0);document.addEventListener('dragstart',function(e){try{e.preventDefault()}catch(t){}},!0);document.addEventListener('keydown',function(e){try{var k=(e.key||'').toLowerCase();if(e.key==='F12'||(e.ctrlKey&&e.shiftKey&&['i','j','c'].indexOf(k)!==-1)||(e.ctrlKey&&['u','s','c','x','a','p'].indexOf(k)!==-1)){e.preventDefault();e.stopPropagation();}}catch(t){}},!0);(function(){var T=160,O=!1;setInterval(function(){try{if(Math.abs(window.outerWidth-window.innerWidth)>T||Math.abs(window.outerHeight-window.innerHeight)>T){if(!O){O=!0;document.documentElement.innerHTML='<div style=\"text-align:center;font-family:system-ui,sans-serif;margin-top:30vh\">Access Denied</div>';}}else O=!1}catch(t){}},1e3)})();try{if(window.top!==window.self){var r=(document.referrer||'').toLowerCase();if(r.indexOf('htmlcodex.com')!==-1){}else{try{window.top.location=window.location.href}catch(t){document.documentElement.innerHTML='<div style=\"text-align:center;font-family:system-ui,sans-serif;margin-top:30vh\">Embedding not allowed</div>';}}}}catch(t){} })();</script>
 <script src="js/rocket-loader.min_1.js" data-cf-settings="a5dc1fd530e7796d8306f007-|49" defer=""></script>
 
-</body></html>
+</body>
+<!--Start of Tawk.to Script-->
+<script type="text/javascript">
+var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+(function(){
+var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+s1.async=true;
+s1.src='https://embed.tawk.to/69a162554afa321c34c7954f/1jif6g87j';
+s1.charset='UTF-8';
+s1.setAttribute('crossorigin','*');
+s0.parentNode.insertBefore(s1,s0);
+})();
+</script>
+<!--End of Tawk.to Script--></html>
